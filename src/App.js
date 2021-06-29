@@ -9,7 +9,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route component={Home} path="/" exact />
-        <Route component={NasaPhoto} path="/" />
+        <Route component={NasaPhoto} path="/nasaphoto" />
       </Switch>
     </BrowserRouter>
   );

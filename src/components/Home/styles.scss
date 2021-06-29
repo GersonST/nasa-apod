@@ -9,15 +9,15 @@ body {
   flex-direction: column;
 
   h1 {
+    padding: 10px;
     position: relative;
-    width: 277px;
-    height: 80px;
-
+    display: flex;
+    text-align: center;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
-    font-size: 42px;
-    line-height: 72px;
+    font-size: 25px;
+
     text-align: center;
     background-color: #2654ab;
     border-radius: 25px;
