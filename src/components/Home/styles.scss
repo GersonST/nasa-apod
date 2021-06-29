@@ -1,0 +1,37 @@
+body {
+  background-image: url(../../assets/images/stars.jpg);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+
+  h1 {
+    position: relative;
+    width: 277px;
+    height: 80px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 72px;
+    text-align: center;
+    background-color: #2654ab;
+    border-radius: 25px;
+
+    color: #ffffff;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  position: relative;
+  width: 471px;
+  height: auto;
+}
