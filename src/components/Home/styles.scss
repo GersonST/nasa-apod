@@ -9,7 +9,7 @@ body {
   flex-direction: column;
 
   h1 {
-    padding: 10px;
+    padding: 20px;
     position: relative;
     display: flex;
     text-align: center;
@@ -25,6 +25,35 @@ body {
     color: #ffffff;
 
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  input {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 15px;
+    margin: 20px;
+  }
+
+  button {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    margin: 50px;
+    background-color: #2654ab;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 15px;
+    transition-duration: 0.4s;
+  }
+
+  button:hover {
+    background-color: #f44336; /* Green */
+    color: white;
   }
 }
 
