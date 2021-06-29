@@ -1,11 +1,15 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import "./style.scss";
 
 export function Navbar() {
   return (
-    <div>
-      <header>
-        <h1>NavBar</h1>
-      </header>
+    <div className="navbar">
+      <ul>
+        <Link className="link" to="/" exact>
+          Home
+        </Link>
+      </ul>
     </div>
   );
 }

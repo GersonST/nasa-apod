@@ -1,0 +1,44 @@
+body {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Poppins", sans-serif;
+}
+.nasa-photo {
+  display: flex;
+  padding: 40px;
+  margin: 0 auto;
+  max-height: 100%;
+
+  img {
+    width: 50%;
+    margin-right: 50px;
+    object-fit: contain;
+    max-height: 80vh;
+  }
+
+  h1 {
+    color: #d14f4f;
+  }
+
+  .date {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #d14f4f;
+  }
+
+  .explanation {
+    color: #bbb;
+  }
+}
+
+@media (max-width: 1280px) {
+  .nasa-photo {
+    display: block;
+
+    img {
+      width: 100%;
+      margin-right: 0;
+      margin-bottom: 30px;
+    }
+  }
+}

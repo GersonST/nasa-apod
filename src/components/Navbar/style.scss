@@ -1,0 +1,19 @@
+.navbar {
+  background-color: rgba(22, 22, 22, 0.8);
+  display: flex;
+  justify-content: left;
+
+  .link {
+    color: #efefef;
+    display: inline-block;
+    padding: 3px 20px;
+    font-size: 25px;
+    text-decoration: none;
+    transition: 0.3s ease all;
+  }
+
+  .link:hover {
+    color: #f59494;
+    transform: scale(1.1);
+  }
+}

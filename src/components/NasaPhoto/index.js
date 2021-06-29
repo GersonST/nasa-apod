@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+import "./styles.scss";
 export function NasaPhoto() {
   var newnasaUrl = localStorage.nasaUrl;
 
