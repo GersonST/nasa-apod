@@ -3,14 +3,13 @@
 </p>
 
 
-  <h3 align="center">Repos</h3>
+  <h3 align="center">Nasa Astronomy Picture of the Day</h3>
 
   <p align="center">
-    An app for see information about Github repositories using GitHub API
+    This app displays beautiful astronomy photos for the current day and month from the NASA APOD API
     <br />
     <br />
     <br />
-    <a href="https://gersonst.github.io/repos/" target:"_blank">View Demo</a>
   </p>
 </p>
 
@@ -45,7 +44,7 @@
 ## About The Project
 
 <p align="center">
-  <img  height="650" src="src/images/Screen.png">
+  <img  height="650" src="src/assets/images/Screen3.jpg">
 </p>
 
 
@@ -102,7 +101,7 @@ This is an example of how to list things you need to use the software and how to
 You can search directly and more visually about Issues from the repositories.
 
 <p align="center">
-  <img  height="650" src="src/images/Screen2.png">
+  <img  height="650" src="src/images/Screen2.jpg">
 </p>
 
 
