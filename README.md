@@ -33,7 +33,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -48,7 +47,7 @@
 </p>
 
 
-This is a project that brings together API consumption knowledge through ReactJS. The Github API provides a lot of information that can be used for apps like this. The focus of the App was the training of API consumption, however it is fully functional.
+This project was one of the first ones I did to study API consumption through ReactJS projects. It uses the NASA API called APOD (Astronomy Picture of the Day) and basically consists of the daily record of images highlighted by NASA showing a little more of our universe.
 
 Here's why:
 * Training of API consumption throught ReactJS projects
@@ -61,7 +60,7 @@ A list of commonly used resources that I find helpful.
 This project was made using the following technologies
 * [ReactJS](https://reactjs.org)
 * [Axios](https://github.com/axios/axios)
-
+* [TailwindCSS](https://tailwindcss.com)
 
 
 <!-- GETTING STARTED -->
@@ -82,11 +81,11 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/GersonST/repos.git
+   git clone https://github.com/GersonST/nasa-apod.git
    ```
-2. Install Axios
+2. Install packages
    ```sh
-   npm install axios
+   npm install 
    ```
 3. Run the project 
    ```sh
@@ -98,11 +97,13 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You can search directly and more visually about Issues from the repositories.
-
 <p align="center">
   <img  height="350" src="src/assets/images/Screen2.jpg">
 </p>
+
+Select a specific date, it can be any one, however the database started to register photos from 1995, so the dates must be higher than this one.
+
+
 
 
 
