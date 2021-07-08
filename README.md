@@ -1,5 +1,5 @@
 <p align="center">
-  <img  height="400" src="src/images/Capa.png">
+  <img  height="400" src="src/assets/images/Screen1.jpg">
 </p>
 
 
