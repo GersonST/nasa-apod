@@ -44,7 +44,7 @@
 ## About The Project
 
 <p align="center">
-  <img  height="650" src="src/assets/images/Screen3.jpg">
+  <img  height="400" src="src/assets/images/Screen3.jpg">
 </p>
 
 
@@ -101,7 +101,7 @@ This is an example of how to list things you need to use the software and how to
 You can search directly and more visually about Issues from the repositories.
 
 <p align="center">
-  <img  height="650" src="src/images/Screen2.jpg">
+  <img  height="350" src="src/assets/images/Screen2.jpg">
 </p>
 
 
